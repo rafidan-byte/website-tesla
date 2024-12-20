@@ -1,0 +1,127 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+    width:100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  
+  header{
+    position:sticky;
+    top:0;
+    background-color: rgb(255, 255, 255);
+  
+  }
+
+
+  .logo img{
+    opacity: 0.2;
+  }
+
+  header p{
+    margin-top: 0px;
+  }
+  
+  table th{
+    font-weight: 400;
+  }
+  
+  th{
+    padding:10px;
+  }
+  
+  th :hover{
+    background-color: rgba(0,0,0,.1);
+  }
+    
+  .logo{
+    padding-left: 50px;
+    padding-right:250px;
+  }
+  
+  .right{
+    padding-left:175px;
+  }
+  
+  table{
+    margin:0;
+    padding:5px;
+    width:100%;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social");
+  }
+  
+  .gambar1{
+    margin:0;
+    text-align:center;
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/c82315a6-ac99-464a-a753-c26bc0fb647d/bvlatuR/std/1200x628/lhd-model-3-social");
+    height:628px;
+    background-size: cover;
+  }
+  
+  h1{
+    padding-top:10px;
+    font-size:40px;
+    margin:0;
+    
+  }
+
+  p{
+    font-weight: 500;
+    
+  }
+  
+  .gambar1 p{
+    margin-bottom: 325px;
+  }
+
+  .gambar2{
+    margin:0;
+    text-align:center;
+    background-image: url("https://editorial.pxcrush.net/carsales/general/editorial/tesla-model-y-13-uslj.jpg?width=1024&height=683");
+    height:683px;
+    background-size: cover;
+  }
+
+  .gambar2 h1{
+    padding-top: 100px;
+    margin-bottom: 375px;
+  }
+
+  button{
+    width:200px;
+    height:40px;
+    border-radius: 7px;
+    font-weight: 800;
+  }
+
+  .btn-black{
+    color:white;
+    background-color: rgb(82, 80, 80);
+    border-color: rgb(82, 80, 80); 
+}
+
+  .btn-white{
+    color: rgb(82, 80, 80);
+    border-color: white;
+  }
+
+  .footer{
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+  }
+
+  .footer tr th{
+    color:grey;
+  }
+
+  .firstfooter{
+    padding-left: 350px;
+  }
+
+  .lastfooter{
+    padding-right: 350px;
+  }
